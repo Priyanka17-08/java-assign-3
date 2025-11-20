@@ -4,11 +4,28 @@ Design and implement a student result management system that collects student de
 This assignment is made as per the guidlines given
 
 Name: Priyanka
+
+
+
 Roll number: 2401010116
+
+
+
 Course: B.Tech CSE
+
+
+
 Section: A
+
+
+
 Semester: III
 
 Submitted to:
+
+
 Dr. Lucky Verma
+
+
+
 (Java Programming)
